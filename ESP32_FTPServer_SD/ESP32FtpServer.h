@@ -34,7 +34,7 @@
 #define FTP_SERVERESP_H
 
 //#include "Streaming.h"
-#include "SD_MMC.h"
+#include "SD.h"
 #include <FS.h>
 #include <WiFiClient.h>
 
