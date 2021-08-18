@@ -1,0 +1,12 @@
+{
+    "name": "ESP32_FTPServer_SD",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/D3PTH-Team/ESP32_FTPServer_SD.git"
+    },
+    "build": {
+        "includeDir": "ESP32_FTPServer_SD",
+        "srcDir": "ESP32_FTPServer_SD",
+        "srcFilter": "+<*.cpp>"
+    }
+}
